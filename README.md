@@ -15,5 +15,5 @@ Kebutuhan Server:
 <img src="https://github.com/papamas/udin/blob/master/Screenshot/Dashboard%20Ujian.jpg" />
 
 
-Download  File Installer silahkan Klik <a href="https://drive.google.com/uc?id=1yg5Y_TXWMFghj3Kb04ZoLpIw2-wLRpF1&export=download"> disini</a> 
+Download  File Installer silahkan Klik <a href="https://drive.google.com/uc?id=16HJ-PK9ysfjz3xn_VnFSeyXRSgXtkjBg&export=download"> disini</a> 
 
