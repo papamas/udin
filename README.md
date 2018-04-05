@@ -1,5 +1,7 @@
 # SiUDIN
-Sistem Informasi Ujian Dinas FULL Package (Siap Pakai)
+Sistem Informasi Ujian Dinas FULL Package (Siap Pakai) adalah perangkat lunak yang dapat dipergunakan untuk ujian dinas pegawai negeri sipil Tingkat I , Tingkat II , Ujian Penyesuaian Kenaikan Pangkat (S1) dan (S2)
+
+
 
 Paket Include :
 1. Apache Webserver
