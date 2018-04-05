@@ -12,3 +12,5 @@ Kebutuhan Server:
 2. Memory 4 GB
 3. Hardisk 500 GB
 
+<img src="https://github.com/papamas/udin/blob/master/Screenshot/Dashboard%20Ujian.jpg" />
+
