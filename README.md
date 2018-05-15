@@ -20,8 +20,10 @@ Kebutuhan Server:
 2. Memory 4 GB
 3. Hardisk 500 GB
 
+Download  File Installer silahkan download via Google Drive <a href="https://drive.google.com/uc?id=16HJ-PK9ysfjz3xn_VnFSeyXRSgXtkjBg&export=download"> Program Lengkap SiUdin</a> 
+
+
 <img src="https://github.com/papamas/udin/blob/master/Screenshot/Dashboard%20Ujian.jpg" />
 
 
-Download  File Installer silahkan Klik <a href="https://drive.google.com/uc?id=16HJ-PK9ysfjz3xn_VnFSeyXRSgXtkjBg&export=download"> disini</a> 
 
