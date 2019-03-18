@@ -9,7 +9,9 @@ Featurenya antara lain  :
 5. Generated Random Soal  Ujian setiap peserta
 6. Monitoring Peserta Ujian Real Time
 7. Laporan Ujian ( XLS dan PDF )
-8. dll
+8. Waktu ujian akan berhenti jika mati lampu / layar ujian di close
+9. Waktu ujian akan berlanjut jika status belum selesai ujian dan waktu ujian masih ada
+10. dll
 
 Paket Include :
 1. Apache Webserver
