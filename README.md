@@ -39,6 +39,10 @@ Registrasi Peserta Ujian
 User      : register<br/>
 Password  : register
 
+Materi Soal  dan Waktu Ujian Dinas
+===========================================
+<a href="https://github.com/papamas/udin/blob/master/PPT%20Materi/PENYUSUNAN%20SOAL%20UJIAN%20DINAS%20DAN%20UJIAN%20PENYESUAIAN%20KENAIKAN.pptx>Materi dan Waktu</a>
+
 Download  File Installer silahkan download via Google Drive <a href="https://drive.google.com/uc?id=16HJ-PK9ysfjz3xn_VnFSeyXRSgXtkjBg&export=download"> Program Lengkap SiUdin</a> 
 
 
