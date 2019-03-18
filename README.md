@@ -22,6 +22,20 @@ Kebutuhan Server:
 2. Memory 4 GB
 3. Hardisk 500 GB
 
+Defaul user dan password :
+===========================
+Administrator
+User      : admin
+Password  : admin
+
+Monitor Ujian Dinas
+User      : monitor
+Password  : monitor
+
+Registrasi Peserta Ujian
+User      : register
+Password  : register
+
 Download  File Installer silahkan download via Google Drive <a href="https://drive.google.com/uc?id=16HJ-PK9ysfjz3xn_VnFSeyXRSgXtkjBg&export=download"> Program Lengkap SiUdin</a> 
 
 
