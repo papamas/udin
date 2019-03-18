@@ -22,17 +22,20 @@ Kebutuhan Server:
 2. Memory 4 GB
 3. Hardisk 500 GB
 
-Defaul user dan password :
+Default user dan password :
 ===========================
 Administrator
+==========================
 User      : admin
 Password  : admin
 
 Monitor Ujian Dinas
+====================
 User      : monitor
 Password  : monitor
 
 Registrasi Peserta Ujian
+========================
 User      : register
 Password  : register
 
