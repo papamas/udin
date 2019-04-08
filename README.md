@@ -43,7 +43,7 @@ Materi Soal  dan Waktu Ujian Dinas
 ===========================================
 <a href="https://github.com/papamas/udin/blob/master/PPT%20Materi/PENYUSUNAN%20SOAL%20UJIAN%20DINAS%20DAN%20UJIAN%20PENYESUAIAN%20KENAIKAN.pptx">Materi dan Waktu</a>
 
-Download  File Installer silahkan download via Google Drive <a href="https://drive.google.com/uc?id=1tkIZXNik0hWfUsV16LiFw4nYB2m5gzpC&export=download"> Program Lengkap SiUdin</a> 
+Download  File Installer silahkan download via Google Drive <a href="https://drive.google.com/uc?id=189eJTkatIYTkSEui2eQCUhyCKBkvuNPG&export=download"> Program Lengkap SiUdin</a> 
 
 
 <img src="https://github.com/papamas/udin/blob/master/Screenshot/Dashboard%20Ujian.jpg" />
